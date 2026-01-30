@@ -216,7 +216,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ## 📊 Project Status
 
-- ✅ Pipeline implemented
+-  Pipeline implemented
 
 
 **Last updated**: January 2026
