@@ -214,7 +214,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ---
 
-## 📊 Project Status
+## Project Status
 
 -  Pipeline implemented
 
