@@ -20,7 +20,7 @@
 
 This repository contains the complete implementation of a hierarchical feature selection pipeline for predicting protein-protein interaction hotspots. The methodology achieves state-of-the-art performance through:
 
-- **97.6% dimensional reduction**: 2,419 → 58 descriptors
+- **97.6% dimensional reduction**: 2,412 → 58 descriptors
 - **Rigorous validation**: GroupKFold with homology control
 - **Best performance**: AUC-ROC = 0.821, MCC = 0.538, F1 = 0.715
 - **Explainability**: SHAP analysis revealing biological relevance
