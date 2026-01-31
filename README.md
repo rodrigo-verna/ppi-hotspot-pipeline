@@ -92,7 +92,7 @@ python scripts/run_full_pipeline.py
 
 ### Hierarchical Feature Selection Pipeline
 
-1. **Initial Cleaning** (2,419 → 1,455)
+1. **Initial Cleaning** (2,412 → 1,455)
    - Remove evolutionary conservation descriptors
    - Remove zero-variance and redundant features
    
